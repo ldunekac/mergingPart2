@@ -8,7 +8,7 @@ What is life?
 	
  I say good sir, that the duckmaster art here!
 
-if '__naim__' == __main__:
+if '__maim__' == __main__:
 
     if luke == 'duckmaster':
         print 'Well, Yah'
