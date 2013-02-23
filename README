@@ -1,12 +1,20 @@
 import soul
 import sanity
 
-#Error, cannot import both at the same time
+What is life? 
+	I have no Idea.
+ What is is?  
+	It is where everyone is a slave to the Duck Master!!
+	
+ I say good sir, that the duckmaster art here!
 
-What is life?  What is is?  I say good sir, that the duckmaster art here!
+if '__naim__' == __main__:
 
+    if luke == 'duckmaster':
+        print 'Well, Yah'
+    else:
+        print 'Wait.. what?'
+	
 
-if luke == 'duckmaster':
-	print 'Well, Yah'
-else:
-	print 'Wait.. what?'
+Now I am winning!!!
+	-Duck Master
