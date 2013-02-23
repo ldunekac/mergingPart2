@@ -1,6 +1,18 @@
+import soul
+import sanity
+
 What is life? 
 	I have no Idea.
  What is is?  
 	It is where everyone is a slave to the Duck Master!!
 	
  I say good sir, that the duckmaster art here!
+
+if luke == 'duckmaster':
+	print 'Well, Yah'
+else:
+	print 'Wait.. what?'
+	
+
+Now I am winning!!!
+	-Duck Master
