@@ -1,1 +1,7 @@
 What is life?  What is is?  I say good sir, that the duckmaster art here!
+
+
+if luke == 'duckmaster':
+	print 'Well, Yah'
+else:
+	print 'Wait.. what?'
