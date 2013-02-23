@@ -1,1 +1,6 @@
+import soul
+import sanity
+
+#Error, cannot import both at the same time
+
 What is life?  What is is?  I say good sir, that the duckmaster art here!
